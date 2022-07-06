@@ -2,7 +2,7 @@
   <div class="container">
 
     <div id="logo" class="pull-left">
-      <h1><a href="index.html" id="body" class="scrollto">
+      <h1><a href="index.php" id="body" class="scrollto">
           <!-- <span style="color: Red;">Rental</span> -->
           Rental AutoNet.ID
         </a></h1>

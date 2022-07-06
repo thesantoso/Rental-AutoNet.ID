@@ -394,7 +394,7 @@ if (isset($_POST['submit'])) {
                         </center>
                       </h5>
                       <center>
-                        <p class="list-price">Rp.<?php echo htmlentities($result->PricePerDay); ?></p> / Day
+                        <p class="list-price">Rp.<?php echo htmlentities(number_format($result->PricePerDay, 0, ',', '.')); ?> </p>/ Day
                       </center><br>
                     </div>
                   </div>
